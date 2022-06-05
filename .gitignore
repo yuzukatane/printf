@@ -1,0 +1,6 @@
+a.out
+main.c
+*.a
+.DS_Store
+*.o
+printfTester
